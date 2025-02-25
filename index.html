@@ -1,7 +1,74 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gekkozz - Software & Cheats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #121212;
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        input {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+        }
+        .category {
+            margin: 10px 0;
+            padding: 10px;
+            background: #333;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .category:hover {
+            background: #555;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div class="container">
+        <h1>Welcome to Gekkozz</h1>
+        <p>Your source for software tweaks, activators, and cheats!</p>
+        <img src="https://via.placeholder.com/800x400" alt="Website Banner">
+        
+        <h2>Search for Software</h2>
+        <input type="text" id="search" placeholder="Search..." onkeyup="searchItems()">
+        
+        <h2>Categories</h2>
+        <div class="category" onclick="location.href='cheats.html'">Game Cheats</div>
+        <div class="category" onclick="location.href='cracked_software.html'">Cracked Software</div>
+        <div class="category" onclick="location.href='activators.html'">Activators</div>
+    </div>
+
+    <script>
+        function searchItems() {
+            let query = document.getElementById('search').value.toLowerCase();
+            if (query.includes("cheat")) {
+                location.href = 'cheats.html';
+            } else if (query.includes("activator")) {
+                location.href = 'activators.html';
+            } else if (query.includes("crack")) {
+                location.href = 'cracked_software.html';
+            }
+        }
+    </script>
 </body>
 </html>
