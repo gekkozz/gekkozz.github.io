@@ -5,7 +5,6 @@
 
 ## 🌟 **What’s Here**  
 ✅ **Latest Versions**: Pre-activated software, game cheats, and premium tools.  
-✅ **100% Clean**: All files are [VirusTotal verified](#).  
 ✅ **One-Click Access**: No surveys, no passwords.  
 
 🔗 **Live Demo**: [https://gekkozz.github.io](https://gekkozz.github.io)  
@@ -13,11 +12,11 @@
 ---
 
 ## 📦 **Categories**  
-| Category              | Description                                  | Link                           |  
-|-----------------------|----------------------------------------------|--------------------------------|  
-| **Activators**         | Windows, Office, Adobe (Lifetime License).   | [Open Activators](activators.html) |  
-| **Game Cheats**        | Undetected Aimbots, ESP, Unlockers.          | [Open Cheats](cheats.html)        |  
-| **Cracked Software**   | Photoshop, Premiere Pro, AutoCAD, and more.  | [Open Software](cracked_software.html) |  
+| Category              | Description                                  |  
+|-----------------------|----------------------------------------------|
+| **Activators**         | Windows, Office, Adobe (Lifetime License).   |
+| **Game Cheats**        | Undetected Aimbots, ESP, Unlockers.          |
+| **Cracked Software**   | Photoshop, Premiere Pro, AutoCAD, and more.  | 
 
 ---
 
@@ -54,8 +53,9 @@ A: Yes! Open a [GitHub Issue](https://github.com/gekkozz/gekkozz.github.io/issue
 
 ---
 
-## 🔐 **Transparency**  
-- **Source Code**: [View Here](https://github.com/gekkozz/gekkozz.github.io)  
-- **VirusTotal Reports**: [Verification Folder](verification/)  
 
-**⬇️ Start Downloading Now ⬇️**  
+**⬇️ We providing it for free so Support Us!!!! ⬇️**  
+BTC:
+ETH:
+SOL:
+XMR:
