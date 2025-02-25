@@ -53,7 +53,7 @@ A: Yes! Open a [GitHub Issue](https://github.com/gekkozz/gekkozz.github.io/issue
 ---
 
 
-**⬇️ We providing it for free so Support Us!!!! ⬇️**  
+**⬇️ Our Service is Free! So Support Us!!! ⬇️**  
 BTC:
 ETH:
 SOL:
