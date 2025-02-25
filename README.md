@@ -21,14 +21,13 @@
 ---
 
 ## 💡 **Why Choose Us?**  
-- 🛡️ **Zero Malware Guarantee**: Every file is manually scanned.  
 - ⚡ **Direct Downloads**: No ads, no wait timers.  
 - 🔄 **Daily Updates**: Latest patches and bypass tools.  
 
 ---
 
 ## 🛠️ **How It Works**  
-1. **Choose** your category (e.g., [Cheats](cheats.html)).  
+1. **Choose** your category.  
 2. **Download** the tool (`.exe` or `.zip`).  
 3. **Run as Admin** and enjoy lifetime access.  
 
